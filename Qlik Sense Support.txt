@@ -1,0 +1,51 @@
+Hello,
+
+Can you please do a web-socket connectivity test and share us the results.
+https://community.qlik.com/t5/Official-Support-Articles/Qlik-Sense-Websocket-Connectivity-Tester/ta-p/1716909#
+
+Also, share the full set of Qlik Sense Logs and share the timestamp while reproducing the issue
+https://community.qlik.com/t5/Official-Support-Articles/How-To-Collect-Log-Files-From-Qlik-Sense-Enterprise-on-Windows/ta-p/1713168#
+
+Please have a look on the below articles which addresses the same issue, and please follow if that helps:
+https://community.qlik.com/t5/Official-Support-Articles/Hub-access-times-out-with-Error-Connection-lost-Make-sure-that/ta-p/1712823#
+https://community.qlik.com/t5/Official-Support-Articles/Qlik-Sense-Service-account-quot-You-cannot-access-Qlik-Sense/ta-p/1713739#
+https://community.qlik.com/t5/Official-Support-Articles/You-cannot-access-Qlik-Sense-because-you-have-no-access-pass/ta-p/1715138#
+
+Did you connect with your Account Manager and ask for professional services?
+https://community.qlik.com/t5/Official-Support-Articles/How-and-when-to-contact-Qlik-s-Professional-Services-and/ta-p/1714936#
+
+=====================================================
+Please can you provide the following information:
+- A Full set of Qlik Sense logs https://community.qlik.com/t5/Knowledge/How-To-Collect-Log-Files-From-Qlik-Sense-Enterprise-on-Windows/ta-p/1713168
+- A Full set of Windows logs https://community.qlik.com/t5/Knowledge/How-To-collect-Windows-Event-Logs/ta-p/1713419
+- The spec of the server https://community.qlik.com/t5/Knowledge/How-to-gather-additional-hardware-and-system-information-from-a/ta-p/1712367
+- Can you attach any screenshots showing us the issue/errors?
+- Can you provide us with a timestamp when you saw the issue?
+
+Please can you provide the above details and any other information you can to help with investigation into the case.
+
+Should you have any further questions, your case has now been entered into a technical queue and will be assigned to the next available support engineer (to follow-up on within your supported business hours).
+ 
+Kind Regards, 
+Qlik Support 
+
+======================
+Professional Services
+https://community.qlik.com/t5/Official-Support-Articles/How-and-when-to-contact-Qlik-s-Professional-Services-and/ta-p/1714936
+
+
+Collection of Specific Rule Scenarios and Customization of Qlik Sense Security rules:
+==========================================
+https://community.qlik.com/t5/Official-Support-Articles/Collection-of-Specific-Rule-Scenarios-and-Customization-of-Qlik/ta-p/1716899
+
+
+Qlik Sense Websocket Connectivity Tester
+================================================
+https://community.qlik.com/t5/Official-Support-Articles/Qlik-Sense-Websocket-Connectivity-Tester/ta-p/1716909#
+
+
+Cannot set offline license in Qlik Sense Enterprise on Windows February 2024
+==============================================================================
+https://community.qlik.com/t5/Official-Support-Articles/Cannot-set-offline-license-in-Qlik-Sense-Enterprise-on-Windows/ta-p/2425091
+
+
